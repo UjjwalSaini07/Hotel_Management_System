@@ -1,0 +1,6 @@
+1) pip install mysql.connector
+2) pip install tkinter
+3) pip install matplotlib
+4) pip install prettytable
+5) pip install webbrowser
+6) pip install calendar
