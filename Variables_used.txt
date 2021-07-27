@@ -1,0 +1,19 @@
+THESE ARE BOOKING VARIABLE
+customer_name_UPPER
+customer_age
+customer_gender_UPPER
+customer_aadhaar_details
+customer_address_UPPER
+customer_mobile_number
+number_of_room
+room_rent_after
+room
+room_number
+
+THESE ARE DATE VARIABLES
+customer_check_in
+month
+year
+check_out
+_mon_out_
+_yr_out
